@@ -1,16 +1,16 @@
-## Szeretnéd kipróbálni?
+## Szeretnéd kipróbálni az Ushahidit?
 
-Ennek a legegyszerűbb módja, ha elmész a http://www.ushahidi.io weboldalra és regisztrálsz. Az ingyenes fiókkal most több hétig használhatod és kipróbálhatod a rendszert.
+Ennek a legegyszerűbb módja, ha elmész a http://www.ushahidi.io weboldalra és regisztrálsz. Az ingyenes fiókkal most több hétig használhatod és kipróbálhatod a rendszert!
 
-## Bevezetése érdekel? 
+### A bevezetése érdekel? 
 Tudni szeretnéd, hogyan fogjál neki a szervezeti szerepkörök meghatározásához? Ez a segédlet abban segít, hogy pontosabban lásd, milyen kérdéseket érdemes végiggondolnod.
 
-### Célok meghatározása
+## Célok meghatározása
 Platformként használni, hogy adatot gyűjtsünk bizonyos csoportok szükségleteiről
 Platformként használni, hogy adatot gyűjtsünk csoportok, személyek felajánlásairól 
 Támogatni, segíteni, hogy a különböző felajánlások és szükségletek egymásra találjanak
 
-### Lehatárolás
+## Lehatárolás
 Területi - pl x önkormányzat, járás, megye vonatkozásában
 Témaköri - pl egészségügyi, oktatási, élelmiszerügyi..
 
@@ -38,7 +38,7 @@ Adatgyűjtés módszere és modellje
 
 Segédeszközként, vagy fő eszközként akarod bevezetni?
 
-###Tervezd meg a csapatodat és a hatékony folyamat menedzsmentet
+## Tervezd meg a csapatodat és a hatékony folyamat menedzsmentet
 
 Hatékony csapatmunka eredménye lesz a rendszer sikeres használata.
 Az alábbiakban egy lehetéséges felosztást mutatunk be.
