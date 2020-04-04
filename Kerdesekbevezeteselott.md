@@ -2,7 +2,8 @@
 
 Ennek a legegyszerűbb módja, ha elmész a http://www.ushahidi.io weboldalra és regisztrálsz. Az ingyenes fiókkal most több hétig használhatod és kipróbálhatod a rendszert.
 
-## Bevezetése érdekel? Tudni szeretnéd, hogyan fogjál neki a szervezeti szerepkörök meghatározásához? Ez a segédlet abban segít, hogy pontosabban lásd, milyen kérdéseket érdemes végiggondolnod.
+## Bevezetése érdekel? 
+Tudni szeretnéd, hogyan fogjál neki a szervezeti szerepkörök meghatározásához? Ez a segédlet abban segít, hogy pontosabban lásd, milyen kérdéseket érdemes végiggondolnod.
 
 ### Célok meghatározása
 Platformként használni, hogy adatot gyűjtsünk bizonyos csoportok szükségleteiről
