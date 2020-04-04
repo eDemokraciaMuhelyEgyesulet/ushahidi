@@ -8,11 +8,11 @@ A platform többféle csatornán keresztül képes adatokat gyűjteni (email, we
 Az adott témában együttműködő szervezetek számára különböző jogosultsági körök állíthatók be, így mindenki csak azt látja, ami feltétlenül szükséges.
 
 
-További információ, történet:
-https://en.wikipedia.org/wiki/Ushahidi
-www.ushahidi.io
+A koronavírus kapcsán jelenleg 21 Ushahidire épített szolgáltatás működik szerte a világban
+https://www.ushahidi.com/covid
 
 
+![]({{site.baseurl}}//1586035306875.png)
 
 
 
