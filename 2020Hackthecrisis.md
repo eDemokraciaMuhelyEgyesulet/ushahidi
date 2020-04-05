@@ -8,6 +8,8 @@ A joszolgalat.hu alatt létrehoztuk a budapesti felajánlásokat gyűjtő kérd�
 
 ![]({{site.baseurl}}//Screenshot%202020-%2004-%2005-%2011-27-52.png)
 
+**Video**
+https://www.youtube.com/watch?v=0qTYaz_MHzU&t=1s
 
 A platformon keresztül könnyedén lehet felajánlásokat, de akár igényeket is beküldeni, térképen megjeleníteni, kategorizálni. 
 
@@ -40,4 +42,4 @@ Segítők, partnerek, fordítók:
 
 
 A béta, még nem teljesen konfigurált verzió a www.joszolgalat.hu domain alatt megtekinthető a rendszerről bővebb leírást [ezen az ushahidi linkjen találsz.](https://github.com/ushahidi)
-A mappában további hasznos leírások találhatók. 
+A mappában további hasznos leírások találhatók.
