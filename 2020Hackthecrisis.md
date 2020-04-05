@@ -27,8 +27,7 @@ Az egyes operátorok, a rendszert használó csoportok többféle jogosultságga
 
 Hasznos funkció, hogy a korábban érkezett felajánlásokat a megfelelő jogosultsággal akár fel is lehet tölteni a rendszerbe csv-ből.
 
-
-Használható zárt, nem publikus rendszerként, de akár a feltöltött információk egy része nyilvános is lehet
+Használható zárt, nem publikus rendszerként, de akár a feltöltött információk egy része nyilvános is lehet, **valamint mobilapplikációval is használható.**
 
 A rendszerben a főváros, vagy bármely magyarországi település könnyedén tudja a segítő szervezetek számára továbbítani az információkat, így kiváló munkatárs az önkormányzati és civil szervezetek számára, akik a különféle válságba jutott embereken kívánnak segíteni, és ehhez hatékony, könnyen elérhető megoldást keresnek.
 
