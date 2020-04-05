@@ -38,12 +38,12 @@ Adatgyűjtés módszere és modellje
 
 Segédeszközként, vagy fő eszközként akarod bevezetni?
 
-## Tervezd meg a csapatodat és a hatékony folyamat menedzsmentet
+### Tervezd meg a csapatodat és a hatékony folyamat menedzsmentet
 
 Hatékony csapatmunka eredménye lesz a rendszer sikeres használata.
 Az alábbiakban egy lehetéséges felosztást mutatunk be.
 
-## A mag csoport
+### A mag csoport
 - Projektmenedzser: a személy, aki az egész stratégiáért és a kezdeményezés menedzsmentjéért felel. 
 - Önkéntes menedzserek: azok a személyek, akik az önkéntesek gyűjtésére, képzésére, beosztására és működtetéséért felelősek.
 - Tech menendzser: azon személy, személyek, akik az Ushahidi platform, a szerver környezet és minden egyéb technológiai kérdésben felelnek, ami a projekt futtatásához szükséges.
