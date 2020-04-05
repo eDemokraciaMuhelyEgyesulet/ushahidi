@@ -8,7 +8,7 @@ A platform többféle csatornán keresztül képes adatokat gyűjteni (email, we
 Az adott témában együttműködő szervezetek számára különböző jogosultsági körök állíthatók be, így mindenki csak azt látja, ami feltétlenül szükséges.
 
 
-A koronavírus kapcsán jelenleg 21 Ushahidire épített szolgáltatás működik szerte a világban
+A koronavírus kapcsán jelenleg 21 Ushahidire épített szolgáltatás működik szerte a világban!
 https://www.ushahidi.com/covid
 
 
@@ -16,5 +16,3 @@ https://www.ushahidi.com/covid
 
 
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
