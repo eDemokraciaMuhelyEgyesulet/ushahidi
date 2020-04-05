@@ -17,5 +17,7 @@ Mi is szeretnénk hozzájárulni, hogy a magyarországi civil szervezetek és ö
 ![Screenshot 2020- 04- 05- 11-27-52.png]({{site.baseurl}}/Screenshot 2020- 04- 05- 11-27-52.png)
 
 
+Kérdésed van a használatával kapcsolatban? Ha nem technikai, hanem inkább arról szól, hogyan lehetne bevezetni, milyen kezdő lépéseket kell tenned - [itt találod!](http://prose.io/#eDemokraciaMuhelyEgyesulet/ushahidi/edit/master/Kerdesekbevezeteselott.md)
+
 
 ![]({{site.baseurl}}//1586035306875.png)
