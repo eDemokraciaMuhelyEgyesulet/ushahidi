@@ -5,12 +5,12 @@ Ennek a legegyszerűbb módja, ha elmész a http://www.ushahidi.io weboldalra é
 ### A bevezetése érdekel? 
 Tudni szeretnéd, hogyan fogjál neki a szervezeti szerepkörök meghatározásához? Ez a segédlet abban segít, hogy pontosabban lásd, milyen kérdéseket érdemes végiggondolnod.
 
-## Célok meghatározása
+### Célok meghatározása
 Platformként használni, hogy adatot gyűjtsünk bizonyos csoportok szükségleteiről
 Platformként használni, hogy adatot gyűjtsünk csoportok, személyek felajánlásairól 
 Támogatni, segíteni, hogy a különböző felajánlások és szükségletek egymásra találjanak
 
-## Lehatárolás
+### Lehatárolás
 Területi - pl x önkormányzat, járás, megye vonatkozásában
 Témaköri - pl egészségügyi, oktatási, élelmiszerügyi..
 
