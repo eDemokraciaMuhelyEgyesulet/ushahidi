@@ -1,4 +1,4 @@
-## Joszolgalat.hu
+## www.joszolgalat.hu
 
 Az elkészített megoldás Budapest főváros önkéntes felajánlási munkafolyamatát hivatott segíteni. 
 _A kihívás: hatékonyan összekötni a kírzisben felajánlást tevőket a fővárossal és a segítő szervezetekkel._
