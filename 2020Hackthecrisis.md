@@ -6,7 +6,8 @@ Nézzük a megoldást, amelyet egy nyílt forráskódú platform lefordításáv
 
 A joszolgalat.hu alatt létrehoztuk a budapesti felajánlásokat gyűjtő kérdőív mintájára egy bejelentő platformot..
 
-![]({{site.baseurl}}//Screenshot%202020-%2004-%2005-%2011-27-52.png)
+![Screenshot 2020- 04- 05- 11-21-16.png]({{site.baseurl}}/Screenshot 2020- 04- 05- 11-21-16.png)
+
 
 **Video**
 https://www.youtube.com/watch?v=0qTYaz_MHzU&t=1s
