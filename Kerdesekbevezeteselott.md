@@ -38,7 +38,7 @@ Adatgyűjtés módszere és modellje
 
 Segédeszközként, vagy fő eszközként akarod bevezetni?
 
-### Tervezd meg a csapatodat és a hatékony folyamat menedzsmentet
+### Tervezd meg a csapatodat és a hatékony folyamat-menedzsmentet
 
 Hatékony csapatmunka eredménye lesz a rendszer sikeres használata.
 Az alábbiakban egy lehetéséges felosztást mutatunk be.
@@ -59,13 +59,3 @@ Az alábbiakban egy lehetéséges felosztást mutatunk be.
 
 
 
-
-
-
-
-
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
