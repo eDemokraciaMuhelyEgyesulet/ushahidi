@@ -16,7 +16,7 @@ Mi is szeretnénk hozzájárulni, hogy a magyarországi civil szervezetek és ö
 
 
 
-Kérdésed van a használatával kapcsolatban? Ha nem technikai, hanem inkább arról szól, hogyan lehetne bevezetni, milyen kezdő lépéseket kell tenned - [itt találod!](http://prose.io/#eDemokraciaMuhelyEgyesulet/ushahidi/edit/master/Kerdesekbevezeteselott.md)
+Kérdésed van a használatával kapcsolatban? Ha nem technikai, hanem inkább arról szól, hogyan lehetne bevezetni, milyen kezdő lépéseket kell tenned - [itt találod!](https://github.com/eDemokraciaMuhelyEgyesulet/ushahidi/blob/master/Kerdesekbevezeteselott.md)
 
 
 
